@@ -1,4 +1,4 @@
-FROM quay.io/centos7/s2i-core-centos7
+FROM mikoto2000/s2i-core-centos7:arm64
 
 # PostgreSQL image for OpenShift.
 # Volumes:
